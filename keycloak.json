@@ -1,0 +1,8 @@
+{
+  "realm" : "Digitization",
+  "realm-public-key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlx3KDMgntH0deubyvI6pwrhbfOJfxuuoqfMY3wnarigJ1p5hUiqKtSwcwt+UuRFs8YfBg4GHc1a8T5nNM8qkafHri4Qq4G5f9Xm1f1YZJtcbjwTNj2aFEouPFbJoW3mZavryXyby6lhqJ8bo8l5etRjf9oF5MZnmh/A+03xqFlBijg56A66E+HF5lJ9WmbdeNdQDnrNB2rKYmCmsZyunCKl1c59mTrfT9eLgnTznCI9cdxfu/Pwrs5kQitIlkTVTzyA3UgdNEMi5mckDEas0wwFKYlWVZqd+wM2Ojych/4LkKEF7UVqqK1PFNbUQheC0+XF+j4pyyhrvQJBIx+504QIDAQAB",
+  "auth-server-url" : "https://dev.sso.red.sa/auth",
+  "ssl-required" : "external",
+  "resource" : "digitization-mobile-app",
+  "public-client" : true
+}
